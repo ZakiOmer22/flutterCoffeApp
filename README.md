@@ -1,7 +1,6 @@
 # Simple Coffee App
 
-Welcome to the Zako Coffee App! This Flutter application helps users discover the best coffee options tailored to their preferences.
-
+Zako Coffee App is a Flutter-based mobile application designed to help coffee enthusiasts discover and explore a variety of coffee options tailored to their preferences. The app features a user-friendly interface, allowing users to search for their favorite coffee types, view detailed information in beautifully designed cards, and navigate seamlessly through the app.
 ## Features
 
 - Beautiful and intuitive user interface
