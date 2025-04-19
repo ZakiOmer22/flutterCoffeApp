@@ -1,16 +1,33 @@
-# zako
+# Simple Coffee App
 
-A new Flutter project.
+Welcome to the Zako Coffee App! This Flutter application helps users discover the best coffee options tailored to their preferences.
+
+## Features
+
+- Beautiful and intuitive user interface
+- Search functionality for coffee types
+- Horizontal and vertical card displays for coffee options
+- Custom app bar and bottom navigation for easy navigation
+- Responsive design for multiple screen sizes
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Make sure you have Flutter installed on your machine. You can follow the official installation guide [here](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/zako_coffee_app.git
+   ```
+   
+2. Go to the Location:
+   ```bash
+   cd zako_coffee_app
+   ```
+3. Run the Project:
+   ```bash
+   flutter run
+   ```
